@@ -1,4 +1,5 @@
-Unity プロジェクトの Assets/ に以下の package.json を追加しましょう。
+1. Unity プロジェクトの Assets/ に package.json を作成します。
+2. 以下を記述します。
 
 ```json
 {
@@ -7,3 +8,5 @@ Unity プロジェクトの Assets/ に以下の package.json を追加しまし
   }
 }
 ```
+
+3. Assets/ で npm install します。
