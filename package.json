@@ -1,19 +1,8 @@
 {
   "name": "mono-behaviour",
   "version": "1.0.0",
-  "description": "hoge",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/noughts/mono-behaviour.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/noughts/music-game-engine/issues"
-  },
-  "homepage": "https://github.com/noughts/music-game-engine#readme"
+  }
 }
